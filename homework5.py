@@ -18,7 +18,7 @@ my_dict = {                     # Создаю словарь
     'Seven': 7
     }
 print('Dictionary:', my_dict)                  # Вывожу на экран словарь my_dict
-print(f'Translation:', my_dict['Two'])           # Вывожу на экран значение для заданного ключа в my_dict
-my_dict['One'] = 1              # Изменил значение для заданного ключа  в my_dict
-my_dict['Eight'] = 'Восемь'     # Добавил новое ключ-значение в my_dict
-print(f'Modified dictionary:', my_dict)                  # Вывожу на экран измененный словарь my_dict
+print(f'Translation:', my_dict['Two'])         # Вывожу на экран значение для заданного ключа в my_dict
+my_dict['One'] = 1                             # Изменил значение для заданного ключа  в my_dict
+my_dict['Eight'] = 'Восемь'                    # Добавил новое ключ-значение в my_dict
+print(f'Modified dictionary:', my_dict)        # Вывожу на экран измененный словарь my_dict
